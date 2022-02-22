@@ -19,6 +19,7 @@ def extract_wifi_passwords():
 
 def main():
     extract_wifi_passwords()
+    print('I hate niggas')
 
 
 if __name__ == '__main__':
